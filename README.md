@@ -1,2 +1,2 @@
-# gsheet-integration
-Google Sheet Integrations
+# gsheets-integration
+Google Sheets Integrations
